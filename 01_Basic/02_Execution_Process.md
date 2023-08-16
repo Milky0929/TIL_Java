@@ -1,8 +1,7 @@
 #자바 프로그래밍
 
 ##자바 프로그램의 실행과정
-
-![image](https://github.com/theNum1Developer/42seoul/assets/138620137/5a360ccf-106b-4e16-8dd6-512c261ffc24)
+![image](https://github.com/theNum1Developer/TIL_Java/assets/138620137/a4988534-74cf-45bb-9ce6-3bb927ba408f)
 
 <br><br>
 
@@ -26,9 +25,7 @@
 - 서로다른 운영체제여도 with 자바 가상머신 == ok
 - 한번 프로그램 작성 -> 모든 운영체제에서 사용 ok
 - 자바 프로그램 != 자바 가상머신, **자바 가상머신은 운영체제 종속적**
-- 자바 가상머신을 거친다 == **실행 속도 down**
-![image](https://github.com/theNum1Developer/42seoul/assets/138620137/84bfa524-fd9d-481d-bba4-4acc41daad14)
-
+![image](https://github.com/theNum1Developer/TIL_Java/assets/138620137/4f54f135-cb9f-4bfc-9a69-c90584a45bc2)
 <br><br>
 
 ##자바 가상 머신의 구성
