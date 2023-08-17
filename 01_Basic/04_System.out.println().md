@@ -1,6 +1,6 @@
-#System.out.println()
+# System.out.println()
 
-##자바 표준 입출력 클래스
+## 자바 표준 입출력 클래스
 - for 사용자 and 프로그램간 대화 -> 입출력 담당 수단 필요
 - 자바 : 모든 것이 객체
 - 입출력 : 객체
@@ -13,7 +13,7 @@
 
 <br><br>
 
-##System.out.println()
+## System.out.println()
 - 메소드
 - 표준 출력 스트림에 데이터 전달 -> 출력 장치로 전달 -> 출력
 - 모니터에 전달된 데이터 + 줄바꿈 출력
